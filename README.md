@@ -13,8 +13,8 @@ indexlwl
 		npm install indexlwl 
 		lwl D:flie    ---- 就是对D盘下的flie文件夹下面的文件遍历
   
-### 注意!!!下面所有语法的提示我都先用小标题提醒了!!!   
-  
+###     生成对象的例子
+  
 	 {
 	vueModle:{
 		"test":"content",
